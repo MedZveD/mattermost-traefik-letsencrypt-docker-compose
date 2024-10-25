@@ -90,8 +90,6 @@ volumes:
   mattermost-plugins:
   mattermost-client-plugins:
   mattermost-bleve-indexes:
-  mattermost-data-backups:
-  mattermost-database-backups:
   traefik-certificates:
 
 services:
